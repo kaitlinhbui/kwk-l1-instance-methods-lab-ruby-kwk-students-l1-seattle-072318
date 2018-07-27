@@ -1,8 +1,11 @@
 # person.rb
 class Person
-  def initialize(talk, walk)
-    @talk = "Hello World!"
-    @walk = "The Person is walking"
+  def talk
+    puts "Hello World!"
+  end
+  
+  def walk
+    puts "The Person is walking"
   end
     
 end
