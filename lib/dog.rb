@@ -6,7 +6,5 @@ class Dog
     @sit = "The Dog is sitting"
   end
     
-    
-    
 end
 
